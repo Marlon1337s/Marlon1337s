@@ -38,7 +38,7 @@
 
 ###
 
-<img src="/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Marlon1337s/Marlon1337s/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -50,6 +50,15 @@
   <a href="https://www.linkedin.com/in/marlon-lenoir-35303419b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="marlon_1337" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="marlonlenoir1337@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
   <a href="marlon_1337" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
