@@ -15,10 +15,13 @@
    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br>
 
-## Um pouco sobre mim
-Leitor nas horas vagas e louco com uma boa ficção e romance.📕
-Apaixonado por tecnologia e sempre disposto a aprender cada vez mais. 🚀
-“Descubra O Que Você Ama E Deixe Que Isso Te Mate.”🔥
+# About Me
+
+A **tech enthusiast** and **lifelong learner**, exploring the world through **code** and **creativity**.<br> 
+Passionate about building solutions with the latest technologies and always striving to push the boundaries of what’s possible.
+
+Let’s **code**, **create**, and **innovate**! 🚀
+
 
 
 ### Contato
