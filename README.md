@@ -1,31 +1,61 @@
-## Olá, eu sou o Marlon
+<h2 align="left">About me</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonlenoir/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-lenoir-35303419b/)
+###
 
+<p align="left">I'm a passionate frontend developer with a keen eye for clean, user-friendly design and efficient code. <br>I’m continuously learning and exploring new technologies to stay on the cutting edge. <br>When I’m not coding, you can find me with a good book in hand, especially fiction and romance. <br>Always open to collaborating on interesting projects and excited to learn from the developer community!</p>
 
-![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlon1337s&show_icons=true&theme=dark)
+###
 
-## Tecnologias que eu estou aprendendo e melhorando
+<h2 align="left">Techs</h2>
 
+###
 
-<div style = "display: inline_block"><br>
- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</div><br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
-# About Me
+###
 
-A **tech enthusiast** and **lifelong learner**, exploring the world through **code** and **creativity**.<br> 
-Passionate about building solutions with the latest technologies and always striving to push the boundaries of what’s possible.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marlon1337s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marlon1337s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marlon1337s&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-Let’s **code**, **create**, and **innovate**! 🚀
+###
 
+<img src="/snake.yml" alt="Snake animation" />
 
+###
 
-### Contato
-Entre em contato, vamos fazer um projeto e trocar ideias
+<h2 align="left">Social Media</h2>
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/marlon-lenoir-35303419b" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="marlon_1337" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="marlonlenoir1337@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
