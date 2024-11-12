@@ -38,10 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Marlon1337s/Marlon1337s/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
