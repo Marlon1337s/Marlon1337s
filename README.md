@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a passionate frontend developer with a keen eye for clean, user-friendly design and efficient code. <br>I’m continuously learning and exploring new technologies to stay on the cutting edge. <br>When I’m not coding, you can find me with a good book in hand, especially fiction and romance. <br>Always open to collaborating on interesting projects and excited to learn from the developer community!</p>
+<p align="left">I'm a passionate developer with a keen eye for clean, user-friendly design and efficient code. <br>I’m continuously learning and exploring new technologies to stay on the cutting edge. <br>When I’m not coding, you can find me with a good book in hand, especially fiction and romance. <br>Always open to collaborating on interesting projects and excited to learn from the developer community!</p>
 
 ###
 
